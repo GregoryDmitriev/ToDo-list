@@ -7,4 +7,4 @@ To delete all tasks, click the 'Delete all' button. To close this window, click 
 In addition, you can customize the font style to your liking. To do this, enter the settings (the 'Settings' icon) and in the 'Fonts-family' tab, select the desired font. Fonts work mainly for Latin.
 You can close the window by simply clicking on it anywhere.
 
-[View project](gregorydmitriev.github.io/ToDo-list).
+[View project](gregorydmitriev.github.io/ToDo-list)
