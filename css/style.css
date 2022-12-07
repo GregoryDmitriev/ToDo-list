@@ -504,5 +504,10 @@ h1 {
   .container {
     width: 90%;
   }
+
+  .box-fonts-family {
+    right: 0.5rem;
+    top: 5rem;
+  }
 }
 
